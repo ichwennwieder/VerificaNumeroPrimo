@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerificaNumeroPrimo", "VerificaNumeroPrimo\VerificaNumeroPrimo.csproj", "{CDC54EC0-B53E-447D-B898-96A0A94406CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDC54EC0-B53E-447D-B898-96A0A94406CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC54EC0-B53E-447D-B898-96A0A94406CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC54EC0-B53E-447D-B898-96A0A94406CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC54EC0-B53E-447D-B898-96A0A94406CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCC79CF6-9D97-491F-8081-06C851B9AEC5}
+	EndGlobalSection
+EndGlobal
